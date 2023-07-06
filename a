@@ -8,4 +8,3 @@ echo "░█░░█▄█▄█▀▒▀█▄█▄█░░█░"
 echo "██▄▄█▄█▄█▒▒▒█▄█▄█▄▄██"
 echo ""
 sleep 2
-sudo ./SRBMiner-MULTI --algorithm panthera --pool $POOL --wallet $WALLET.$WORKER -p --cpu-threads 100
